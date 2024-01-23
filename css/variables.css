@@ -1,0 +1,21 @@
+:root {
+	--font-size-base: 1rem;
+
+	--color-nav: #fbffa7;
+	--color-hero: #b1c5ff;
+	--color-sidebar: #b6ffc0;
+	--color-main: #ff764d;
+	--color-content: #f2b3ff;
+	--color-image: #2de6ff;
+	--color-footer: #8c00ff;
+
+	--border-radius: 5px;
+	--border-radius-max: 50px;
+
+	--spacing-x-small: 0.5rem;
+	--spacing-small: 1rem;
+	--spacing-medium: 1.5rem;
+	--spacing-large: 2rem;
+	--spacing-larger: 3rem;
+	--spacing-largest: 4rem;
+}
